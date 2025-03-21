@@ -5,16 +5,17 @@ Projeto de um anúncio de curso de artes <br/>
 
 </p>
 
-<p align="center">
-  [![Tecnologias](https://img.shields.io/badge/Tecnologias-purple?style=for-the-badge)](#-tecnologias)
-  [![Projeto](https://img.shields.io/badge/Projeto-blue?style=for-the-badge)](#-projeto)
-  [![Layout](https://img.shields.io/badge/Layout-red?style=for-the-badge)](#-layout)
-
+<div align="center">
   
-</p>
+[![Tecnologias](https://img.shields.io/badge/Tecnologias-purple?style=for-the-badge)](#-tecnologias)
+[![Projeto](https://img.shields.io/badge/Projeto-blue?style=for-the-badge)](#-projeto)
+[![Layout](https://img.shields.io/badge/Layout-red?style=for-the-badge)](#-layout)
+
+</div>
+
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000" wid>
 </p>
 
 <br>
@@ -52,4 +53,5 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥
+
 <img alt="curso gaby" src="./gabi/home-landingPage-gaby2.png" width="100%">
