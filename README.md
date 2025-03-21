@@ -27,22 +27,17 @@ Curso desenvolvido para aprimorar a criatividade <br/>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
-- Git e Github
-- Figma
 
 ## 💻 Projeto
 
-O projeto foi feito com base nas aulas da rocketseat.
+O projeto foi feito com base no vídeo da Raffaela Ballerini.
 
+- [Landing Page](https://www.youtube.com/watch?v=llF6vD-RljE)
 
-- [Acesse o projeto finalizado, online](http://127.0.0.1:5501/index.html)
-
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
 
 ## :memo: Licença
 
