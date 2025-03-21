@@ -1,7 +1,7 @@
-<h1 align="center"> Curso de artes </h1>
+<h1 align="center"> Gaby Art </h1>
 
 <p align="center">
-Curso desenvolvido para aprimorar a criatividade <br/>
+Projeto de um anúncio de curso de artes <br/>
 
 </p>
 
@@ -19,7 +19,8 @@ Curso desenvolvido para aprimorar a criatividade <br/>
 <br>
 
 <p align="center">
-  <img alt="curso gaby" src=".github/preview.jpg" width="100%">
+  <img alt="curso gaby" src="![Uploading Home-landing=page-gaby.png…]()" width="100%">![Uploading Home-landing=page-gaby.png…]()
+
 </p>
 
 ## 🚀 Tecnologias
