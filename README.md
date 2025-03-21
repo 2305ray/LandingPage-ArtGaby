@@ -6,9 +6,10 @@ Projeto de um anúncio de curso de artes <br/>
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  [![Tecnologias](https://img.shields.io/badge/Tecnologias-purple?style=for-the-badge)](#-tecnologias)
+  [![Projeto](https://img.shields.io/badge/Projeto-blue?style=for-the-badge)](#-projeto)
+  [![Layout](https://img.shields.io/badge/Layout-red?style=for-the-badge)](#-layout)
+
   
 </p>
 
@@ -19,7 +20,7 @@ Projeto de um anúncio de curso de artes <br/>
 <br>
 
 <p align="center">
-  <img alt="curso gaby" src="![Uploading Home-landing=page-gaby.png…]()" width="100%">![Uploading Home-landing=page-gaby.png…]()
+  <img alt="curso gaby" src="./gabi/gabi.png" width="100%">
 
 </p>
 
@@ -38,7 +39,10 @@ O projeto foi feito com base no vídeo da Raffaela Ballerini.
 
 ## 🔖 Layout
 
-![Uploading Home-landing=page-gaby.png…]()
+<p align="center">
+  <img alt="curso gaby" src="./gabi/Home-landing=page-gaby.png" width="100%">
+
+</p>
 
 
 ## :memo: Licença
@@ -48,3 +52,4 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥
+<img alt="curso gaby" src="./gabi/home-landingPage-gaby2.png" width="100%">
