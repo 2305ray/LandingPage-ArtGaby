@@ -49,11 +49,11 @@ O projeto foi feito com base no vídeo da Raffaela Ballerini.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/2305ray/Calculadora.git
+   git clone https://github.com/2305ray/LandingPage-ArtGaby.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd Calculadora
+   cd LandingPage-ArtGaby
    ```
 3. Abra o arquivo index.html no navegador:
    ```bash
