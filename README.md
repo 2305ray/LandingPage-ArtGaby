@@ -45,10 +45,20 @@ O projeto foi feito com base no vídeo da Raffaela Ballerini.
 </p>
 
 
-## :memo: Licença
+## 🛠 Como rodar o projeto
 
-Esse projeto está sob a licença MIT.
-
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/2305ray/Calculadora.git
+   ```
+2. Acesse a pasta do projeto:
+   ```bash
+   cd Calculadora
+   ```
+3. Abra o arquivo index.html no navegador:
+   ```bash
+   start index.html
+   ```
 ---
 
 <p align="center"> Feito com ♥ </p>
