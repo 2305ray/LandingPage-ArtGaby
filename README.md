@@ -24,11 +24,15 @@ Projeto de um anúncio de curso de artes <br/>
   <img alt="curso gaby" src="./gabi/gabi.png" width="50%">
 </div>
 
+---
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
+
+---
 
 ## 💻 Projeto
 
@@ -36,6 +40,7 @@ O projeto foi feito com base no vídeo da Raffaela Ballerini.
 
 - [Landing Page](https://www.youtube.com/watch?v=llF6vD-RljE)
 
+---
 
 ## 🔖 Layout
 
@@ -44,6 +49,7 @@ O projeto foi feito com base no vídeo da Raffaela Ballerini.
 
 </p>
 
+---
 
 ## 🛠 Como rodar o projeto
 
